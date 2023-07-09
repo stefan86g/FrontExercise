@@ -1,0 +1,23 @@
+
+  {
+  "blogs": [
+    {
+      "id":"ee022caf-a711-4804-afba-fc53144800e4",
+      "title": "Title 1",
+      "date": "2023-07-09",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dapibus nulla semper quam interdum sollicitudin. Curabitur euismod erat eget rutrum consectetur. Maecenas venenatis sagittis neque sagittis egestas."
+    },
+    {
+      "id":"e0a3742a-bd47-4b76-83e7-2458ccbed3c6",
+      "title": "Title 2",
+      "date": "2023-07-10",
+      "text": "Suspendisse suscipit elit vel viverra consequat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+    },
+    {
+      "id":"c2ea992f-829c-4914-91bb-6474d200116c",
+      "title": "Title 3",
+      "date": "2023-07-11",
+      "text": "Maecenas ligula ipsum, suscipit sit amet dignissim ut, facilisis sed metus. Nullam justo arcu, mattis quis ultrices in, cursus eu tellus. Phasellus interdum augue urna, at lobortis nisl tincidunt a."
+    }
+  ]
+}

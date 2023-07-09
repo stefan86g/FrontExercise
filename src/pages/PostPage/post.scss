@@ -1,0 +1,40 @@
+.post-container {
+    max-width: 800px;
+    margin: 8px auto;
+    padding: 20px;
+    border-radius: 18px;
+    text-align: left;
+
+    .post-title {
+        font-size: 24px;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+
+    .post-author {
+        font-size: 14px;
+        color: #666;
+        margin-bottom: 10px;
+    }
+
+    .post-image {
+        width: 100%;
+        height: auto;
+        margin-bottom: 20px;
+        border-radius: 18px;
+    }
+
+    .post-text {
+        font-size: 16px;
+        line-height: 1.5;
+    }
+
+    .btn-back {
+        background-color: #f2f2f2;
+        color: #333;
+        border: none;
+        padding: 8px 16px;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+}

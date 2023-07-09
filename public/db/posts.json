@@ -1,0 +1,27 @@
+
+{
+    "posts": [
+      {
+        "id":"ee022caf-a711-4804-afba-fc53144800e4",
+        "title": "Post Title 1",
+        "author": "John Doe",
+        "img": "https://images.pexels.com/photos/2312369/pexels-photo-2312369.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "text": "Morbi ut euismod eros. Suspendisse in dictum ante, quis pellentesque nunc. Donec porta tellus vitae sem bibendum maximus. Phasellus eu enim urna. Cras tortor mi, viverra vitae condimentum eget, pulvinar ac lectus. Fusce auctor ligula id sem bibendum, semper accumsan velit laoreet. Duis facilisis felis non libero congue sagittis. Donec condimentum vestibulum ullamcorper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed et libero commodo, laoreet purus eget, ultricies tellus. Morbi consequat molestie justo, vel fringilla arcu auctor non. Nullam mi lectus, faucibus quis purus vitae, volutpat ultrices mi. Donec sed ipsum quis lectus lobortis volutpat in eget tellus. Nunc molestie dignissim dui ac porta."
+      },
+      {
+        "id":"e0a3742a-bd47-4b76-83e7-2458ccbed3c6",
+        "title": "Title 2",
+        "author": "Chan Jackie",
+        "img": "https://images.pexels.com/photos/1181216/pexels-photo-1181216.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "text": "Vestibulum varius diam magna, ac eleifend magna cursus non. Quisque sit amet gravida sem. Sed elementum mi eu neque eleifend egestas. Donec neque urna, accumsan dignissim tortor vitae, consequat accumsan erat. Etiam lacinia blandit nisi, non efficitur purus finibus eu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris viverra mi a metus lobortis, sit amet pretium purus varius. Vestibulum dignissim dapibus finibus. Praesent nec placerat ligula. Pellentesque accumsan hendrerit tellus. Mauris non tellus ut urna mattis pellentesque. Suspendisse orci lectus, eleifend id lacus a, tempor blandit leo. Cras aliquet porta condimentum. Duis semper diam a ligula mollis, ut tincidunt felis maximus. Nunc vitae nunc ligula. Phasellus fermentum, lectus sit amet fermentum accumsan, quam odio gravida nunc, et venenatis ipsum eros a sapien."
+      },
+      {
+        "id":"c2ea992f-829c-4914-91bb-6474d200116c",
+        "title": "Title 3",
+        "author": "Anna Hart",
+        "img": "https://images.pexels.com/photos/450035/pexels-photo-450035.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "text": "Maecenas non suscipit est. Proin tellus ligula, sollicitudin in suscipit vel, fringilla ac sapien. Curabitur volutpat hendrerit lectus lacinia facilisis. Donec pulvinar purus ac erat bibendum facilisis. Curabitur vestibulum turpis in pretium vulputate. Praesent laoreet elementum nisi, quis pellentesque leo vestibulum a. Sed aliquam urna eleifend tempor elementum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed ornare consectetur turpis, at finibus turpis egestas interdum. Nullam rhoncus magna nunc, et iaculis magna commodo eget. Aenean efficitur hendrerit enim aliquet tempus. Vivamus tellus enim, cursus id consequat pulvinar, convallis in sem. Phasellus sit amet consequat quam, in sollicitudin ex. Curabitur venenatis velit vel leo convallis scelerisque. Nullam nec lorem auctor, tempor tellus sed, euismod tortor."
+      }
+    ]
+  }
+  
